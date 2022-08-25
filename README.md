@@ -8,3 +8,7 @@ Solution Documentation
 * You should now have the app running at http://localhost:3000
 * go to http://localhost:3000/test to test the various functionalities of the app
 
+
+# To Run unit test
+- npm run test
+
